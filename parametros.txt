@@ -1,0 +1,3 @@
+url,usuario,passw,ptosxpart,puntosxrond,ptosxfase
+jdbc:mysql://localhost:3306/tp3_schema,root,miji538,1,10,40
+		
